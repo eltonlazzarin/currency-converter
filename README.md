@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Logo Icon" src="https://github.com/eltonlazzarin/imc-calculator-flutter/blob/master/screenshots/imcicon.svg" /> 
+    <img alt="Logo Icon" src="https://github.com/eltonlazzarin/imc-calculator-flutter/blob/master/screenshots/imcicon.svg" height="150px" width="150px" /> 
     <br>
     Currency Converter
 </h1>
@@ -27,7 +27,7 @@
 ## :rocket: Mobile Technologies
 
 <h1 align="center">
-    <img alt="Currency Converter Image" src="https://github.com/eltonlazzarin/currency-converter/blob/master/screenshots/currencyconverter.png" hight="380" width="350" />  
+    <img alt="Currency Converter Image" src="https://github.com/eltonlazzarin/currency-converter/blob/master/screenshots/currencyconverter.png" />  
 </h1>
 
 This project was developed with the following technologies:
@@ -50,7 +50,7 @@ $ flutter run
 
 ## :memo: License
 
-This project is under the MIT license. See the [LICENSE](https://github.com/eltonlazzarin/currency-converter/blob/master/LICENSE) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/eltonlazzarin/imc-calculator-flutter/blob/master/LICENSE) for more information.
 
 ---
 
