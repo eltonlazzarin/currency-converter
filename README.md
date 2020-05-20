@@ -51,7 +51,7 @@ $ flutter run
 
 ## :memo: License
 
-This project is under the MIT license. See the [LICENSE](https://github.com/eltonlazzarin/imc-calculator-flutter/blob/master/LICENSE) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/eltonlazzarin/currency-converter/blob/master/LICENSE) for more information.
 
 ---
 
