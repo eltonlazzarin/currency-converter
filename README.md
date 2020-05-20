@@ -34,6 +34,7 @@ This project was developed with the following technologies:
 
 - [Flutter](https://github.com/flutter/flutter)
 - [VS Code](https://code.visualstudio.com)
+- [http](https://pub.dev/packages/http)
 
 ## :information_source: How To Use
 
