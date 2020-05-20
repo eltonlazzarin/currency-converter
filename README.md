@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Logo Icon" src="https://github.com/eltonlazzarin/imc-calculator-flutter/blob/master/screenshots/imcicon.svg" height="150px" width="150px" /> 
+    <img alt="Logo Icon" src="https://github.com/eltonlazzarin/currency-converter/blob/master/screenshots/icons/coins.svg" height="150px" width="150px" /> 
     <br>
     Currency Converter
 </h1>
