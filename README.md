@@ -1,4 +1,4 @@
-<h1 align="center"> 
+<h1 align="center">
     <img alt="Logo Icon" src="https://github.com/eltonlazzarin/currency-converter/blob/master/screenshots/icons/coins.svg" height="150px" width="150px" /> 
     <br>
     Currency Converter
